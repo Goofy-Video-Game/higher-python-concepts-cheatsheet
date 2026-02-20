@@ -1,6 +1,6 @@
-names = ["jamal", "jimbob", "henry"]
-ages = [16, 51, 67]
-weight = [60, 70, 90]
+value1 = ["jamal", "jimbob", "henry"]
+value2 = [16, 51, 67]
+value3 = [60, 70, 90]
 # first value in each array belong to the same person, same with second value, third, fourth
 
 
